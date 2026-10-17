@@ -14,7 +14,7 @@
 ## مرحله ۲ — وارد کردن Database ID توی کد
 
 ۱. برو توی مخزن گیت‌هابت → فایل `wrangler.jsonc` را باز کن → روی آیکن مداد (Edit) بزن.
-۲. عبارت `PUT-YOUR-DATABASE-ID-HERE` را با همان Database ID که کپی کردی جایگزین کن.
+۲. عبارت `            PUT-YOUR-DATABASE-ID-HERE` را با همان Database ID که کپی کردی جایگزین کن.
 ۳. پایین صفحه روی **Commit changes** بزن.
 
 ## مرحله ۳ — ادامه‌ی ویزارد Cloudflare
